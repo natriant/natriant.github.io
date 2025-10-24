@@ -1,7 +1,7 @@
 ---
 title: "LHC Oxygen run: preparation status and plans"
 collection: talks
-type: "Talk"
+talk_type: "Talk"
 permalink: /talks/LightIonsv2
 venue: "Light ions collisions at the LHC Workshop"
 date: 11/2024
