@@ -35,7 +35,41 @@ Work experience
   * Built and validated non-linear MAD-X model for tracking in SixtTrack
   * Large scale simulation campaigns for Dynamic Aperture and Frequency Map Analysis
   * Developed a custom tracking code: study noise & non-linear effects on phase space and tune shifts
-  
+ 
+Programming and Software
+======
+* Programming: Python (e.g. numpy, scipy, pandas, matplotlib, PySpark, Git)
+* Simulation tools: MAD-X, Xsuite, PyHEADTAIL, SixTrack/SixDesk, SixTrackLib, Collider Time Evolution (CTE)
+
+Languages
+======
+* Greek: Native  
+* English: Proficient User (C2)
+* French: Independent User (B1)
+
+Detailed Professional Experience
+======
+**Experimental Work**
+* Validating measured distribution of beam losses around the LHC ring, sign-off on performance of the collimation system
+* Performance analysis of the Pb-Pb ion runs (2023, 2024) and light ions (2025): intensity, transmission, emittance, bunch length, luminosity production, comparison with simulations
+* Assessing Beam Loss Monitor thresholds for different machine configurations
+* Correlated beam-induced background in LHC experiments with beam losses and collimator settings
+* Planned, performed, and post-processed machine studies e.g. improving collimator settings, minimising losses at injection plateau
+* Benchmarked coherent tune shift from beam coupling impedance against theoretical predictions and simulations
+
+**Simulation Work**
+* Collimation simulations in LHC (Xsuite): combined particle tracking and particle-matter interaction simulations
+* Simulation of beam-halo effects on detectors i.e. ATLAS, PPS XRP (Xsuite)
+* Beam property evolution (emittance, losses) and luminosity in physics fills (CTE); including space charge, radiation damping, luminosity burn-off etc
+* Beam stability and emittance growth  in the presence of beam-coupling impedance, RF noise and non-linearities; coherent/incoherent tune shifts, damping mechanisms (PyHEADTAIL)
+* Non-linear beam dynamics simulations: Dynamic Aperture, Frequency Map Analysis, and phase space studies for a non-linear SPS lattice (built in MAD-X) considering magnet non-linearities and power supply ripples
+* Modelling of phase and amplitude noise (PyHEADTAIL), implementation of crab cavity element (in SixTrack)
+* Converted measured spectra to discrete time series for use in simulations
+
+**Hardware and Operation**
+* Measured transverse emittance in SPS with Wire Scanners, beam losses, and aperture in LHC 
+* Set up and aligned collimators, monitor motor drifts during operation, applied trimming knobs through LHC Software Architecture (LSA), configure LHC and SPS kickers for beam excitation
+
 
 
 Publications
