@@ -1,7 +1,7 @@
 ---
 title: "Simulations and Measurements of Betatron and Off-Momentum Cleaning Performance in the Energy Ramp at the LHC"
 collection: talks
-type: "Talk"
+talk_type: "Talk"
 permalink: /talks/ParticlesAnalysis
 venue: "High-Intensity and High-Brightness Hadron Beams 2023"
 date: 10/2023
