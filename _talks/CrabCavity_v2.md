@@ -1,7 +1,7 @@
 ---
 title: "Suppression of Crab Cavity RF Noise-Induced Emittance Growth by Beam Transverse Impedance"
 collection: talks
-type: "Talk"
+talk_type: "Talk"
 permalink: /talks/CrabCavityv2
 venue: "13th International Particle Accelerator Conference"
 date: 06/2022
