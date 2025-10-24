@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Natalia Triantafyllou"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 Education
 ======
