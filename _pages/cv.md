@@ -82,9 +82,8 @@ Detailed Professional Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Find my articles on my [ORCID profile.](https://orcid.org/0000-0001-6651-9532)
+
   
 Talks
 ======
