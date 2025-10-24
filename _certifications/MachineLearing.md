@@ -4,7 +4,7 @@ title: "Intro to machine learning"
 collection: certifications
 permalink: /certifications/MachineLearning
 venue: "kaggle"
-date: 2024
+date: 05/2024
 ---
 
 Short Text.....
