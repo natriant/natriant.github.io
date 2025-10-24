@@ -1,7 +1,7 @@
 ---
 title: "Crab Cavity emittance growth MDs"
 collection: talks
-type: "Talk"
+talk_type: "Talk"
 permalink: /talks/CrabCavity
 venue: "12th HL-LHC Collaboration Meeting"
 date: 9/2022
