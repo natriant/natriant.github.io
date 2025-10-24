@@ -7,4 +7,4 @@ location: "Geneva, Switzerland"
 ---
 
 Light ions collisions at the LHC Workshop
-You can find it online [here]([https://indico.cern.ch/event/1419878/contributions/6446595/](https://indico.cern.ch/event/1436085/contributions/mine))
+You can find it online [here](https://indico.cern.ch/event/1436085/contributions/mine)
