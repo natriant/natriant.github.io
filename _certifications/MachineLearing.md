@@ -2,7 +2,7 @@
 layout: single
 title: "Intro to machine learning"
 collection: certifications
-permalink: /certifications/MachineLearning
+permalink: /certifications/MachineLearning/
 venue: "kaggle"
 date: 05/2024
 ---
