@@ -1,4 +1,5 @@
 ---
+layout: certificate
 title: "Intro to machine learning"
 collection: certifications
 permalink: /certifications/MachineLearning
