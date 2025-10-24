@@ -69,6 +69,14 @@ Detailed Professional Experience
 **Hardware and Operation**
 * Measured transverse emittance in SPS with Wire Scanners, beam losses, and aperture in LHC 
 * Set up and aligned collimators, monitor motor drifts during operation, applied trimming knobs through LHC Software Architecture (LSA), configure LHC and SPS kickers for beam excitation
+* Retrieved and analysed data from various beam diagnostic instruments, including:
+  * Wire Scanners and LHC Synchrotron Light monitor (BSRT) for emittance measurements
+  * LHC Head-Tail Monitor, wide-band beam position monitor, to measure intra-bunch beam position for crab cavity diagnostics
+  * Spectrum analyser
+  * Beam Quality Monitor (BQM) and Wall Current Monitors for the longitudinal beam quality
+  * Beam Loss Monitors (BLMs) for loss evaluation
+  * Fast Beam Current Transformers (FBCT) for beam and bunch by bunch intensity measurements
+  * Vacuum gauges and equipment temperature readings 
 
 
 
