@@ -67,16 +67,6 @@
   }
 }
 
-.archive__item-meta {
-  margin-top: 0;
-  font-size: $type-size-5;
-   color: var(--global-text-color-light);
-   margin-bottom: 0.5em;
-
-  & + p {
-    text-indent: 0;
-  }
-}
 
 .archive__item-teaser {
   border-radius: $border-radius;
