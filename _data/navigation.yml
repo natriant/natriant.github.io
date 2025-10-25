@@ -12,11 +12,9 @@ main:
   - title: "Talks"
     url: /talks/  
 
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-#  - title: "Certifications"
- #   url: /certifications/
 
 
 #  - title: "Teaching"
@@ -31,8 +29,7 @@ main:
   - title: "CV"
     url: /cv/
 
-#  - title: "posts"
-#    url: /posts/
+
     
   # - title: "CV"
   #   url: /cv-json/
