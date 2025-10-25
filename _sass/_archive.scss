@@ -70,7 +70,7 @@
 .archive__item-meta {
   margin-top: 0;
   font-size: $type-size-5;
-   color: #666666;
+   color: var(--global-text-color-light);
    margin-bottom: 0.5em;
 
   & + p {
