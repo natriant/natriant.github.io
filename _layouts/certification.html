@@ -9,18 +9,29 @@ layout: default
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="page__inner-wrap">
+
       <header>
-        <h1 itemprop="headline">{{ page.title }}</h1>
-        <p><strong>Issued by:</strong> {{ page.venue }}</p>
-        <p><strong>Year:</strong> {{ page.date }}</p>
-        {% if page.link %}
-          <p><a href="{{ page.link }}" target="_blank">View Certificate</a></p>
+        {% if page.title %}
+          <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
+        {% endif %}
+        {% if page.venue %}
+          <p class="page__meta"><strong>Issued by:</strong> {{ page.venue }}</p>
+        {% endif %}
+        {% if page.date %}
+          <p class="page__meta"><strong>Date:</strong> {{ page.date | date: "%Y-%m-%d" }}</p>
         {% endif %}
       </header>
 
-      <section itemprop="text">
-        {{ content }}
-      </section>
+      {% if page.description %}
+        <section class="page__content" itemprop="text">
+          {{ page.description }}
+        </section>
+      {% endif %}
+
+      {% if page.link %}
+        <p><a href="{{ page.link }}" target="_blank">View Certificate</a></p>
+      {% endif %}
+
     </div>
   </article>
 </div>
