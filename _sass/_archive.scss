@@ -67,6 +67,17 @@
   }
 }
 
+.archive__item-meta {
+  margin-top: 0;
+  font-size: $type-size-5;
+   color: #666666;
+   margin-bottom: 0.5em;
+
+  & + p {
+    text-indent: 0;
+  }
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
