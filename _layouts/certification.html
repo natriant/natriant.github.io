@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="page__inner-wrap">
+      <header>
+        <h1 itemprop="headline">{{ page.title }}</h1>
+        <p><strong>Issued by:</strong> {{ page.venue }}</p>
+        <p><strong>Year:</strong> {{ page.date }}</p>
+        {% if page.link %}
+          <p><a href="{{ page.link }}" target="_blank">View Certificate</a></p>
+        {% endif %}
+      </header>
+
+      <section itemprop="text">
+        {{ content }}
+      </section>
+    </div>
+  </article>
+</div>
