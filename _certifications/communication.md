@@ -1,0 +1,9 @@
+---
+layout: certification
+title: "Communication: Science or Art?"
+permalink: /certifications/communication/
+venue: "Swiss Nova"
+date: 2023-05-10
+---
+
+Communication workshop by swiss nova
