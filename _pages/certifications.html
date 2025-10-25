@@ -8,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.certifications reversed %}
-  {% include archive-single-certification.html %}
+{% for post in site.certifications %}
+  <p>{{ post.title }}</p>
 {% endfor %}
+
