@@ -10,12 +10,12 @@ author_profile: true
 Data & Computing
 ======
 * [Intro to Machine Learning](https://natriant.github.io/certifications/machine) - Kaggle, 2024
-* Scientific Software for Heterogeneous Architectures — CERN School of Computing, 2021 
+* [Scientific Software for Heterogeneous Architectures](https://natriant.github.io/certifications/sortware) — CERN School of Computing, 2021 
 
 
 Scientific Communication & Management 
 ======
-* Communication: Science or Art? — Swiss Nova, 2023
+* [Communication: Science or Art?](https://natriant.github.io/certifications/communication) — Swiss Nova, 2023
 * Convincing Scientific Presentations — CERN, 2021
 * Scientific Writing — CERN, 2020
 * Project Management for Researchers — Minds Matters, 2020
