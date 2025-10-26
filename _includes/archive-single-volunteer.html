@@ -24,9 +24,17 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%Y' }}</p>{% endif %}
+    {% if volunteer.start_date %}
+      <p class="archive__item-date">
+        {{ volunteer.start_date | date: "%Y" }}
+        {% if volunteer.end_date %}
+          – {{ volunteer.end_date | date: "%Y" }}
+        {% endif %}
+      </p>
+    {% endif %}
+
     {% if post.content %}
-    <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+    <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
     {% endif %}
     
   </article>
