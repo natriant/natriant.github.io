@@ -29,4 +29,4 @@ author_profile: true
 
 <b>Other Certifications</b>
 * Scuba Diving License - SSI Open Water, since 2017
-* Sailing Certification - since 2018
+* Sailing licensed skipper  - Istioploikos Omilos Peiraios - since 2019
