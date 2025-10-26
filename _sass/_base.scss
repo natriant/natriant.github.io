@@ -9,7 +9,7 @@ html {
 
 body {
   /* Set via _themes.scss */
-  color: var(--global-text-color);
+  color: $text-color;
   background-color: var(--global-bg-color);
 
   margin: 0;
