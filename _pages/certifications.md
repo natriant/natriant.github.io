@@ -16,17 +16,17 @@ Data & Computing
 Scientific Communication & Management 
 ======
 * [Communication: Science or Art?](https://natriant.github.io/certifications/communication) — Swiss Nova, 2023
-* Convincing Scientific Presentations — CERN, 2021
-* Scientific Writing — CERN, 2020
-* Project Management for Researchers — Minds Matters, 2020
+* [Convincing Scientific Presentations](https://natriant.github.io/certifications/presentation) — CERN, 2021
+* [Scientific Writing](https://natriant.github.io/certifications/writing) — CERN, 2020
+* [Project Management for Researchers](https://natriant.github.io/certifications/project-management) — Minds Matters, 2020
 
 
 
 Accelerator Physics Training
 ======
-* CAS Advanced Accelerator Physics — Slangerup, Denmark, 2019
-* Joint University Accelerator School — Archamps, France, 2018
-* Numerical Methods and Analysis, Design and Modelling of Particle Accelerators — CERN Accelerator School, 2018
+* [CAS Advanced Accelerator Physics](https://natriant.github.io/certifications/accelerator) — Slangerup, Denmark, 2019
+* [Joint University Accelerator School](https://natriant.github.io/certifications/school) — Archamps, France, 2018
+* [Numerical Methods and Analysis, Design and Modelling of Particle Accelerators](https://natriant.github.io/certifications/analysis) — CERN Accelerator School, 2018
 
 
 
