@@ -13,7 +13,6 @@
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
-@import "custom";
 @import "vendor/susy/susy";
 
 @import "reset";
@@ -34,6 +33,8 @@
 @import "page";
 @import "archive";
 @import "sidebar";
+
+@import "custom";
 
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
