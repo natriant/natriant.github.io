@@ -236,7 +236,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-
+  volunteering:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -301,10 +303,18 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _certifications
+  # _projects
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _volunteering
+  - scope:
+      path: ""
+      type: volunteering
     values:
       layout: single
       author_profile: true
