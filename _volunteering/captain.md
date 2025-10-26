@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: volunteer
 title: "Captain – CERN Women’s Football Team"
 collection: volunteering
 date: 2025-01-01
