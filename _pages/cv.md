@@ -50,9 +50,9 @@ Skills
 
 
 
-🔗 [Download Full CV](https://github.com/natriant/natriant.github.io/blob/96c58c1b282409585d0c15913231fb60ef73a3cd/files/Natalia_Triantafyllou_CV.pdf)
-
-
+<p>
+  <a href="/assets/files/cv.pdf" download>🔗 Download CV (PDF)</a>
+</p>
 
 
 
