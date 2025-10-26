@@ -7,4 +7,4 @@ end_date:
 excerpt: ""
 ---
 
-Volunteered as part of the ticketing team in Geneva, Switzerland, assisting spectators with app troubleshooting, ticket validation, and access issues. Provided on-site support for special assistance and accessibility services during the event.
+Volunteered as part of the <b>ticketing team</b> in Geneva, Switzerland, assisting spectators with app troubleshooting, ticket validation, and access issues. Provided on-site support for <b>special assistance and accessibility services</b> during the event.
