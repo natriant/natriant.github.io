@@ -24,15 +24,15 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if item.start_date %}
+    {% if post.start_date %}
       <p class="archive__item-date">
-        {{ item.start_date | date: "%Y" }}
-        {% if item.end_date %}
+        {{ post.start_date | date: "%Y" }}
+        {% if post.end_date %}
           –
-          {% if item.end_date == "present" %}
+          {% if post.end_date == "present" %}
             Present
           {% else %}
-            {{ item.end_date | date: "%Y" }}
+            {{ post.end_date | date: "%Y" }}
           {% endif %}
         {% endif %}
       </p>
