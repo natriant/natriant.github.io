@@ -9,7 +9,7 @@ author_profile: true
 
 <b>Data & Computing</b>
 * [Intro to Machine Learning](https://natriant.github.io/certifications/machine) - Kaggle, 2024
-* [Scientific Software for Heterogeneous Architectures](https://natriant.github.io/certifications/sortware) — CERN School of Computing, 2021 
+* [Scientific Software for Heterogeneous Architectures](https://natriant.github.io/certifications/software) — CERN School of Computing, 2021 
 
 
 <b>Scientific Communication & Management </b>
