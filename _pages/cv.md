@@ -51,7 +51,7 @@ Skills
 
 
 <p>
-  <a href="/assets/files/cv.pdf" download>🔗 Download CV (PDF)</a>
+  <a href="assets/files/Natalia_Triantafyllou_CV.pdf" download>🔗 Download CV (PDF)</a>
 </p>
 
 
