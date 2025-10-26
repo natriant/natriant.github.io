@@ -25,7 +25,7 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.start_date %}
-      <p class="archive__item-date">
+      <p class="page__meta">
         {{ post.start_date | date: "%Y" }}
         {% if post.end_date %}
           –
