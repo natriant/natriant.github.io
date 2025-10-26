@@ -2,7 +2,8 @@
 layout: volunteer
 title: "CERN Official Guide"
 collection: volunteering
-date: 2019-01-01
+start_date: 2019-01-01
+end_date: present
 excerpt: ""
 ---
 
