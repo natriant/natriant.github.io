@@ -50,7 +50,7 @@ Skills
 
 
 
-🔗 [Download CV (PDF)](https://natriant.github.io/assets/files/Natalia_Triantafyllou_CV.pdf)
+🔗 [Download CV (PDF)](https://natriant.github.io/assets/files/Natalia_Triantafyllou_CV.pdf){:target="_blank"}
 
 
 
