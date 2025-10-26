@@ -14,8 +14,18 @@ layout: default
         {% if page.title %}
           <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
         {% endif %}
-        {% if page.date %}
-          <p class="page__meta"><strong>Date:</strong> {{ page.date | date: "%Y" }}</p>
+        {% if post.start_date %}
+          <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i>
+            {{ post.start_date | date: "%Y" }}
+            {% if post.end_date %}
+              –
+              {% if post.end_date == "present" %}
+                Present
+              {% else %}
+                {{ post.end_date | date: "%Y" }}
+              {% endif %}
+            {% endif %}
+          </p>
         {% endif %}
       </header>
 
