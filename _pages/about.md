@@ -16,5 +16,6 @@ I work with complex datasets and computational tools to extract insights, valida
 I enjoy applying analytical thinking and physics-based methods to solve real-world problems and contribute to meaningful, data-informed projects.
 
 
-
+Welcome to my personal space — a collection of my work, projects, and ideas, both professional and beyond.
+Feel free to explore and reach out - if something resonates or you’d like to connect.
 
