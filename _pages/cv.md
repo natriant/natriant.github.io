@@ -51,7 +51,7 @@ Skills
 
 
 <p>
-  <a href="assets/files/Natalia_Triantafyllou_CV.pdf" download>🔗 Download CV (PDF)</a>
+  <a href="[assets/files/Natalia_Triantafyllou_CV.pdf](https://github.com/natriant/natriant.github.io/blob/8d55b8b90f189c7fc82efe6d685033f1fde97875/assets/files/Natalia_Triantafyllou_CV.pdf)" download>🔗 Download CV (PDF)</a>
 </p>
 
 
