@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 Eduation
 ======
-<b> PhD in Accelerator Physics - University of Liverpool, Liverpool, UK, Nov 2018 - Feb 2023
+<b> PhD in Accelerator Physics <b>- University of Liverpool, Liverpool, UK, Nov 2018 - Feb 2023
 
-<b> Bachelor in Physics - Aristotle University of Thessaloniki, Thessaloniki, GR, Sep 2013 - Oct 2018
+<b> Bachelor in Physics<b> - Aristotle University of Thessaloniki, Thessaloniki, GR, Sep 2013 - Oct 2018
 
-<b> Erasmus+ Exchange -  University of Łódź, Łódź, PL, Feb 2017 - Jun 2017
+<b> Erasmus+ Exchange <b>-  University of Łódź, Łódź, PL, Feb 2017 - Jun 2017
 
 Professional Experience
 ======
