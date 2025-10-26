@@ -10,3 +10,10 @@ author_profile: true
 {% for post in site.projects reversed %}
   {% include archive-single-project.html %}
 {% endfor %}
+
+
+<h2>Volunteering</h2>
+
+{% for post in site.volunteering reversed %}
+  {% include archive-single-volunteer.html %}
+{% endfor %}
